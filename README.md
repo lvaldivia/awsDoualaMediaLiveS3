@@ -1,4 +1,4 @@
-# Elemental Demo - English Translation
+# Elemental Demo 
 
 1. **Go to MediaLive**  
    ![image](https://github.com/lvaldivia/elementaldemo/assets/3209183/56876437-354d-417c-a68d-c0a01a7675ae)
